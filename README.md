@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="assets/banner-v2.svg" alt="Mohammad Didar - Quality Assurance & Test Automation Engineer" width="100%" />
+<img src="assets/banner.svg" alt="Mohammad Didar - Quality Assurance & Test Automation Engineer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=2EAD33&center=true&vCenter=true&width=700&height=40&lines=I+break+software+before+your+users+can;Playwright+%2B+TypeScript+%2B+Cucumber+BDD;API+%7C+E2E+%7C+Mobile+%7C+Performance+%7C+Accessibility;ISTQB+Advanced+Level+Test+Analyst;5%2B+years+shipping+software+that+doesn't+fall+over" alt="Typing SVG" />
 
