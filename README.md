@@ -1,13 +1,13 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/MOHAMMAD%20DIDAR-Quality%20Assurance%20%26%20Test%20Automation%20Engineer-2EAD33?style=for-the-badge&labelColor=121011" height="40" />
+# Mohammad Didar
 
-<br/><br/>
+### Quality Assurance &amp; Test Automation Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2EAD33&center=true&vCenter=true&width=620&lines=I+break+software+before+your+users+can;Playwright+%2B+TypeScript+%2B+Cucumber+BDD;API+%7C+E2E+%7C+Mobile+%7C+Performance+%7C+Accessibility;ISTQB+Advanced+Level+Test+Analyst;5%2B+years+shipping+software+that+doesn't+fall+over" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=2EAD33&center=true&vCenter=true&width=700&height=40&lines=I+break+software+before+your+users+can;Playwright+%2B+TypeScript+%2B+Cucumber+BDD;API+%7C+E2E+%7C+Mobile+%7C+Performance+%7C+Accessibility;ISTQB+Advanced+Level+Test+Analyst;5%2B+years+shipping+software+that+doesn't+fall+over" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <a href="https://linkedin.com/in/didarmohammad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:didarmd005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -28,7 +28,7 @@
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 
-## 🧑‍💻 About Me
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28" /> About Me
 
 ```ts
 const didar: QAEngineer = {
@@ -63,7 +63,7 @@ I like writing automation that actually survives a release cycle, digging throug
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> Tech Stack
 
 <div align="center">
 
@@ -201,7 +201,7 @@ I like writing automation that actually survives a release cycle, digging throug
 
 <!-- ═══════════════════════════ WHAT I DO ═══════════════════════════ -->
 
-## 🔍 What I Actually Do
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28" /> What I Actually Do
 
 | Area | What that looks like day to day |
 |:--|:--|
@@ -218,7 +218,7 @@ I like writing automation that actually survives a release cycle, digging throug
 
 <!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
 
-## 💼 Experience Highlights
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> Experience Highlights
 
 <details open>
 <summary><b>🏦 QA Engineer · FinTech & Lending Platforms</b> · Auckland, NZ · 2025 to present</summary>
@@ -274,7 +274,7 @@ Designed and executed test plans for a government tax and revenue management sys
 
 <!-- ═══════════════════════════ IMPACT ═══════════════════════════ -->
 
-## 📊 Impact So Far
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" /> Impact So Far
 
 <div align="center">
 
@@ -289,7 +289,7 @@ Designed and executed test plans for a government tax and revenue management sys
 
 <!-- ═══════════════════════════ CERTIFICATIONS ═══════════════════════════ -->
 
-## 🎓 Certifications
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28" /> Certifications
 
 <div align="center">
 
@@ -305,7 +305,7 @@ Designed and executed test plans for a government tax and revenue management sys
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 
-## 📈 GitHub Stats
+## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28" /> GitHub Stats
 
 <div align="center">
 
@@ -322,7 +322,7 @@ Designed and executed test plans for a government tax and revenue management sys
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 
-## 🐍 Contribution Snake
+## <img src="https://media.giphy.com/media/ZDsr9zSXCGBmYNPZFn/giphy.gif" width="28" /> Contribution Snake
 
 <div align="center">
 
@@ -340,7 +340,7 @@ Designed and executed test plans for a government tax and revenue management sys
 
 <div align="center">
 
-## 🤝 Let's Connect
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> Let's Connect
 
 Always happy to talk automation frameworks, flaky test horror stories, or anything QA.
 
