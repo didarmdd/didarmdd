@@ -340,18 +340,8 @@ Designed and executed test plans for a government tax and revenue management sys
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> Let's Connect
 
 Always happy to talk automation frameworks, flaky test horror stories, or anything QA.
-
-<br/>
-
 <a href="https://linkedin.com/in/didarmohammad"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:didarmd005@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<i>If it can be tested, it can be automated. If it can be automated, it should be.</i>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Thanks%20for%20stopping%20by-2EAD33?style=for-the-badge&labelColor=121011" />
+<sub><i>If it can be tested, it can be automated. If it can be automated, it should be.</i></sub>
 
 </div>
