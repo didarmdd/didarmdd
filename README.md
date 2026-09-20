@@ -1,9 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-# Mohammad Didar
-
-### Quality Assurance &amp; Test Automation Engineer
+<img src="assets/banner.svg" alt="Mohammad Didar - Quality Assurance & Test Automation Engineer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=2EAD33&center=true&vCenter=true&width=700&height=40&lines=I+break+software+before+your+users+can;Playwright+%2B+TypeScript+%2B+Cucumber+BDD;API+%7C+E2E+%7C+Mobile+%7C+Performance+%7C+Accessibility;ISTQB+Advanced+Level+Test+Analyst;5%2B+years+shipping+software+that+doesn't+fall+over" alt="Typing SVG" />
 
@@ -52,12 +50,12 @@ I like writing automation that actually survives a release cycle, digging throug
 
 | | |
 |:--|:--|
-| 🔭 **Currently working on** | QA automation, API testing and end-to-end coverage across fintech and e-commerce |
-| 👯 **Looking to collaborate on** | Test automation frameworks, Playwright tooling and open source QA projects |
-| 🤝 **Interested in** | AI / LLM testing and advanced test automation |
-| 🌱 **Currently learning** | LLM testing, AI-assisted QA and deeper Playwright patterns |
-| 💬 **Ask me about** | Playwright, TypeScript, Cucumber BDD, API testing, SQL and software quality |
-| ⚡ **Fun fact** | I enjoy breaking software before users get the chance to 😄 |
+| <img src="assets/icons/target.svg" width="18" align="top" /> **Currently working on** | QA automation, API testing and end-to-end coverage across fintech and e-commerce |
+| <img src="assets/icons/users.svg" width="18" align="top" /> **Looking to collaborate on** | Test automation frameworks, Playwright tooling and open source QA projects |
+| <img src="assets/icons/bulb.svg" width="18" align="top" /> **Interested in** | AI / LLM testing and advanced test automation |
+| <img src="assets/icons/book.svg" width="18" align="top" /> **Currently learning** | LLM testing, AI-assisted QA and deeper Playwright patterns |
+| <img src="assets/icons/chat.svg" width="18" align="top" /> **Ask me about** | Playwright, TypeScript, Cucumber BDD, API testing, SQL and software quality |
+| <img src="assets/icons/bolt.svg" width="18" align="top" /> **Fun fact** | I enjoy breaking software before users get the chance to 😄 |
 
 ---
 
@@ -75,13 +73,13 @@ I like writing automation that actually survives a release cycle, digging throug
 
 <br/>
 
-### 🎭 Automation Frameworks
+### <img src="assets/icons/cog.svg" width="20" align="top" /> Automation Frameworks
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber_BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-### 🧪 Testing Expertise
+### <img src="assets/icons/flask.svg" width="20" align="top" /> Testing Expertise
 
 ![E2E Testing](https://img.shields.io/badge/E2E_Testing-007ACC?style=flat-square)
 ![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=flat-square)
@@ -100,7 +98,7 @@ I like writing automation that actually survives a release cycle, digging throug
 ![Database Validation](https://img.shields.io/badge/Database_Validation-336791?style=flat-square)
 ![Migration Testing](https://img.shields.io/badge/Migration_Testing-2F4F4F?style=flat-square)
 
-### 💻 Languages & Technologies
+### <img src="assets/icons/code.svg" width="20" align="top" /> Languages & Technologies
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -119,7 +117,7 @@ I like writing automation that actually survives a release cycle, digging throug
 <tr>
 <td valign="top" width="50%">
 
-### 🔌 API & Test Management
+### <img src="assets/icons/plug.svg" width="20" align="top" /> API & Test Management
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logoColor=black)
@@ -129,13 +127,13 @@ I like writing automation that actually survives a release cycle, digging throug
 ![Qase](https://img.shields.io/badge/Qase-4F46DC?style=flat-square)
 ![Allure](https://img.shields.io/badge/Allure_Report-FD5A3E?style=flat-square)
 
-### 🌐 Cross-Platform & Debugging
+### <img src="assets/icons/globe.svg" width="20" align="top" /> Cross-Platform & Debugging
 
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-F5B400?style=flat-square&logo=browserstack&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-4285F4?style=flat-square)
 ![DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
-### 📋 Project & Collaboration
+### <img src="assets/icons/kanban.svg" width="20" align="top" /> Project & Collaboration
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
@@ -145,7 +143,7 @@ I like writing automation that actually survives a release cycle, digging throug
 </td>
 <td valign="top" width="50%">
 
-### 📡 Monitoring & Observability
+### <img src="assets/icons/pulse.svg" width="20" align="top" /> Monitoring & Observability
 
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
@@ -153,7 +151,7 @@ I like writing automation that actually survives a release cycle, digging throug
 ![Crashlytics](https://img.shields.io/badge/Firebase_Crashlytics-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
-### ☁️ Cloud
+### <img src="assets/icons/cloud.svg" width="20" align="top" /> Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
@@ -161,7 +159,7 @@ I like writing automation that actually survives a release cycle, digging throug
 ![Pinpoint](https://img.shields.io/badge/Amazon_Pinpoint-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
 
-### 🔄 CI/CD & Version Control
+### <img src="assets/icons/branch.svg" width="20" align="top" /> CI/CD & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
@@ -174,7 +172,7 @@ I like writing automation that actually survives a release cycle, digging throug
 </tr>
 </table>
 
-### 📱 Platforms & Browsers
+### <img src="assets/icons/browser.svg" width="20" align="top" /> Platforms & Browsers
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -183,7 +181,7 @@ I like writing automation that actually survives a release cycle, digging throug
 ![Safari](https://img.shields.io/badge/Safari-000000?style=flat-square&logo=safari&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=microsoftedge&logoColor=white)
 
-### 🏦 Domain Experience
+### <img src="assets/icons/bank.svg" width="20" align="top" /> Domain Experience
 
 ![FinTech](https://img.shields.io/badge/FinTech-003366?style=flat-square)
 ![Financial Systems](https://img.shields.io/badge/Financial_Systems-006400?style=flat-square)
@@ -203,20 +201,43 @@ I like writing automation that actually survives a release cycle, digging throug
 
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28" /> What I Actually Do
 
-| Area | What that looks like day to day |
-|:--|:--|
-| 🤖 **Automation** | UI and API suites in Playwright + TypeScript, Cucumber BDD feature files, page objects, fixtures, parallel runs and CI-friendly reporting |
-| 🔌 **API Testing** | REST validation in Postman and Bruno, schema and contract checks, auth flows, chained requests, backend data consistency |
-| 🔄 **End-to-End** | Full business journeys across web, mobile and backend, including third-party and core banking integrations |
-| 🗄️ **Data Validation** | SQL queries for integrity checks, migration verification and reconciliation between systems |
-| 📱 **Mobile** | iOS and Android on real devices and BrowserStack, responsiveness, device compatibility, cross-platform behaviour |
-| 🕵️ **Root Cause** | Datadog, Sentry and Loggly log analysis, network inspection via Charles Proxy, turning vague bug reports into reproducible steps |
-| 🛡️ **Non-functional** | Performance, security fundamentals, accessibility and cross-browser coverage |
-| 📋 **Process** | Test strategy, risk-based coverage, defect triage, release readiness, mentoring juniors, refining stories with BAs and devs |
-
+<table>
+<tr><th width="190">Area</th><th>What that looks like day to day</th></tr>
+<tr><td><img src="assets/icons/robot.svg" width="18" align="top" /> <b>Automation</b></td><td>UI and API suites in Playwright + TypeScript, Cucumber BDD feature files, page objects, fixtures, parallel runs and CI-friendly reporting</td></tr>
+<tr><td><img src="assets/icons/plug.svg" width="18" align="top" /> <b>API testing</b></td><td>REST validation in Postman and Bruno, schema and contract checks, auth flows, chained requests, backend data consistency</td></tr>
+<tr><td><img src="assets/icons/loop.svg" width="18" align="top" /> <b>End-to-end</b></td><td>Full business journeys across web, mobile and backend, including third-party and core banking integrations</td></tr>
+<tr><td><img src="assets/icons/database.svg" width="18" align="top" /> <b>Data validation</b></td><td>SQL queries for integrity checks, migration verification and reconciliation between systems</td></tr>
+<tr><td><img src="assets/icons/phone.svg" width="18" align="top" /> <b>Mobile</b></td><td>iOS and Android on real devices and BrowserStack, responsiveness, device compatibility, cross-platform behaviour</td></tr>
+<tr><td><img src="assets/icons/search.svg" width="18" align="top" /> <b>Root cause</b></td><td>Datadog, Sentry and Loggly log analysis, network inspection via Charles Proxy, turning vague bug reports into reproducible steps</td></tr>
+<tr><td><img src="assets/icons/shield.svg" width="18" align="top" /> <b>Non-functional</b></td><td>Performance, security fundamentals, accessibility and cross-browser coverage</td></tr>
+<tr><td><img src="assets/icons/clipboard.svg" width="18" align="top" /> <b>Process</b></td><td>Test strategy, risk-based coverage, defect triage, release readiness, mentoring juniors, refining stories with BAs and devs</td></tr>
+</table>
 ---
 
 <!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28" /> Featured Projects
+
+<table>
+<tr><th width="240">Project</th><th>What it is</th><th width="150">Stack</th></tr>
+<tr>
+  <td><a href="https://github.com/didarmdd/REPO-NAME"><b>Playwright Framework</b></a></td>
+  <td>Replace with a one-line description of your automation framework</td>
+  <td><code>Playwright</code> <code>TypeScript</code></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/didarmdd/REPO-NAME"><b>API Test Suite</b></a></td>
+  <td>Replace with a one-line description of your API testing project</td>
+  <td><code>Postman</code> <code>Bruno</code></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/didarmdd/REPO-NAME"><b>BDD Cucumber Project</b></a></td>
+  <td>Replace with a one-line description of your BDD project</td>
+  <td><code>Cucumber</code> <code>TypeScript</code></td>
+</tr>
+</table>
+
+---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> Experience Highlights
 
