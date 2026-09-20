@@ -1,7 +1,9 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EAD33,50:007ACC,100:6A5ACD&height=200&section=header&text=Mohammad%20Didar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Quality%20Assurance%20%26%20Test%20Automation%20Engineer&descAlignY=56&descSize=18" width="100%" />
+<img src="https://img.shields.io/badge/MOHAMMAD%20DIDAR-Quality%20Assurance%20%26%20Test%20Automation%20Engineer-2EAD33?style=for-the-badge&labelColor=121011" height="40" />
+
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2EAD33&center=true&vCenter=true&width=620&lines=I+break+software+before+your+users+can;Playwright+%2B+TypeScript+%2B+Cucumber+BDD;API+%7C+E2E+%7C+Mobile+%7C+Performance+%7C+Accessibility;ISTQB+Advanced+Level+Test+Analyst;5%2B+years+shipping+software+that+doesn't+fall+over" alt="Typing SVG" />
 
@@ -22,11 +24,11 @@
 
 </div>
 
-<br/>
+---
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28" /> About Me
+## 🧑‍💻 About Me
 
 ```ts
 const didar: QAEngineer = {
@@ -57,11 +59,11 @@ I like writing automation that actually survives a release cycle, digging throug
 | 💬 **Ask me about** | Playwright, TypeScript, Cucumber BDD, API testing, SQL and software quality |
 | ⚡ **Fun fact** | I enjoy breaking software before users get the chance to 😄 |
 
-<br/>
+---
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -73,13 +75,13 @@ I like writing automation that actually survives a release cycle, digging throug
 
 <br/>
 
-### Automation Frameworks
+### 🎭 Automation Frameworks
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber_BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-### Testing Expertise
+### 🧪 Testing Expertise
 
 ![E2E Testing](https://img.shields.io/badge/E2E_Testing-007ACC?style=flat-square)
 ![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=flat-square)
@@ -98,7 +100,7 @@ I like writing automation that actually survives a release cycle, digging throug
 ![Database Validation](https://img.shields.io/badge/Database_Validation-336791?style=flat-square)
 ![Migration Testing](https://img.shields.io/badge/Migration_Testing-2F4F4F?style=flat-square)
 
-### Languages & Technologies
+### 💻 Languages & Technologies
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -117,7 +119,7 @@ I like writing automation that actually survives a release cycle, digging throug
 <tr>
 <td valign="top" width="50%">
 
-### API & Test Management
+### 🔌 API & Test Management
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logoColor=black)
@@ -127,13 +129,13 @@ I like writing automation that actually survives a release cycle, digging throug
 ![Qase](https://img.shields.io/badge/Qase-4F46DC?style=flat-square)
 ![Allure](https://img.shields.io/badge/Allure_Report-FD5A3E?style=flat-square)
 
-### Cross-Platform & Debugging
+### 🌐 Cross-Platform & Debugging
 
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-F5B400?style=flat-square&logo=browserstack&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-4285F4?style=flat-square)
 ![DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
-### Project & Collaboration
+### 📋 Project & Collaboration
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
@@ -143,7 +145,7 @@ I like writing automation that actually survives a release cycle, digging throug
 </td>
 <td valign="top" width="50%">
 
-### Monitoring & Observability
+### 📡 Monitoring & Observability
 
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
@@ -151,7 +153,7 @@ I like writing automation that actually survives a release cycle, digging throug
 ![Crashlytics](https://img.shields.io/badge/Firebase_Crashlytics-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
-### Cloud
+### ☁️ Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
@@ -159,7 +161,7 @@ I like writing automation that actually survives a release cycle, digging throug
 ![Pinpoint](https://img.shields.io/badge/Amazon_Pinpoint-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
 
-### CI/CD & Version Control
+### 🔄 CI/CD & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
@@ -172,7 +174,7 @@ I like writing automation that actually survives a release cycle, digging throug
 </tr>
 </table>
 
-### Platforms & Browsers
+### 📱 Platforms & Browsers
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -181,7 +183,7 @@ I like writing automation that actually survives a release cycle, digging throug
 ![Safari](https://img.shields.io/badge/Safari-000000?style=flat-square&logo=safari&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=microsoftedge&logoColor=white)
 
-### Domain Experience
+### 🏦 Domain Experience
 
 ![FinTech](https://img.shields.io/badge/FinTech-003366?style=flat-square)
 ![Financial Systems](https://img.shields.io/badge/Financial_Systems-006400?style=flat-square)
@@ -195,11 +197,11 @@ I like writing automation that actually survives a release cycle, digging throug
 ![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white)
 ![Tax & Revenue](https://img.shields.io/badge/Tax_%26_Revenue_Systems-8B4513?style=flat-square)
 
-<br/>
+---
 
 <!-- ═══════════════════════════ WHAT I DO ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28" /> What I Actually Do
+## 🔍 What I Actually Do
 
 | Area | What that looks like day to day |
 |:--|:--|
@@ -208,15 +210,15 @@ I like writing automation that actually survives a release cycle, digging throug
 | 🔄 **End-to-End** | Full business journeys across web, mobile and backend, including third-party and core banking integrations |
 | 🗄️ **Data Validation** | SQL queries for integrity checks, migration verification and reconciliation between systems |
 | 📱 **Mobile** | iOS and Android on real devices and BrowserStack, responsiveness, device compatibility, cross-platform behaviour |
-| 🔍 **Root Cause** | Datadog, Sentry and Loggly log analysis, network inspection via Charles Proxy, turning vague bug reports into reproducible steps |
+| 🕵️ **Root Cause** | Datadog, Sentry and Loggly log analysis, network inspection via Charles Proxy, turning vague bug reports into reproducible steps |
 | 🛡️ **Non-functional** | Performance, security fundamentals, accessibility and cross-browser coverage |
 | 📋 **Process** | Test strategy, risk-based coverage, defect triage, release readiness, mentoring juniors, refining stories with BAs and devs |
 
-<br/>
+---
 
 <!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> Experience Highlights
+## 💼 Experience Highlights
 
 <details open>
 <summary><b>🏦 QA Engineer · FinTech & Lending Platforms</b> · Auckland, NZ · 2025 to present</summary>
@@ -268,11 +270,11 @@ Designed and executed test plans for a government tax and revenue management sys
 
 </details>
 
-<br/>
+---
 
 <!-- ═══════════════════════════ IMPACT ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" /> Impact So Far
+## 📊 Impact So Far
 
 <div align="center">
 
@@ -283,11 +285,11 @@ Designed and executed test plans for a government tax and revenue management sys
 
 </div>
 
-<br/>
+---
 
 <!-- ═══════════════════════════ CERTIFICATIONS ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28" /> Certifications
+## 🎓 Certifications
 
 <div align="center">
 
@@ -299,11 +301,11 @@ Designed and executed test plans for a government tax and revenue management sys
 
 </div>
 
-<br/>
+---
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28" /> GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -314,21 +316,13 @@ Designed and executed test plans for a government tax and revenue management sys
 
 <img height="170" src="https://streak-stats.demolab.com?user=didarmdd&hide_border=true&theme=tokyonight&background=00000000&ring=2EAD33&fire=2EAD33&currStreakLabel=2EAD33&sideLabels=9f9f9f&dates=9f9f9f" />
 
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=didarmdd&theme=tokyo-night&hide_border=true&bg_color=00000000&color=2EAD33&line=007ACC&point=ffffff&area=true&area_color=2EAD33" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=didarmdd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
 </div>
 
-<br/>
+---
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/ZDsr9zSXCGBmYNPZFn/giphy.gif" width="28" /> Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -340,23 +334,13 @@ Designed and executed test plans for a government tax and revenue management sys
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" />
-
-</div>
-
-<br/>
+---
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> Let's Connect
+## 🤝 Let's Connect
 
 Always happy to talk automation frameworks, flaky test horror stories, or anything QA.
 
@@ -369,6 +353,8 @@ Always happy to talk automation frameworks, flaky test horror stories, or anythi
 
 <i>If it can be tested, it can be automated. If it can be automated, it should be.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:007ACC,100:2EAD33&height=140&section=footer" width="100%" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Thanks%20for%20stopping%20by-2EAD33?style=for-the-badge&labelColor=121011" />
 
 </div>
