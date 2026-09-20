@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="assets/banner.svg" alt="Mohammad Didar - Quality Assurance & Test Automation Engineer" width="100%" />
+<img src="assets/banner-v3.svg" alt="Mohammad Didar - Quality Assurance & Test Automation Engineer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=2EAD33&center=true&vCenter=true&width=700&height=40&lines=I+break+software+before+your+users+can;Playwright+%2B+TypeScript+%2B+Cucumber+BDD;API+%7C+E2E+%7C+Mobile+%7C+Performance+%7C+Accessibility;ISTQB+Advanced+Level+Test+Analyst;5%2B+years+shipping+software+that+doesn't+fall+over" alt="Typing SVG" />
 
@@ -210,32 +210,10 @@ I like writing automation that actually survives a release cycle, digging throug
 <tr><td><img src="assets/icons/shield.svg" width="18" align="top" /> <b>Non-functional</b></td><td>Performance, security fundamentals, accessibility and cross-browser coverage</td></tr>
 <tr><td><img src="assets/icons/clipboard.svg" width="18" align="top" /> <b>Process</b></td><td>Test strategy, risk-based coverage, defect triage, release readiness, mentoring juniors, refining stories with BAs and devs</td></tr>
 </table>
+
 ---
 
 <!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28" /> Featured Projects
-
-<table>
-<tr><th width="240">Project</th><th>What it is</th><th width="150">Stack</th></tr>
-<tr>
-  <td><a href="https://github.com/didarmdd/REPO-NAME"><b>Playwright Framework</b></a></td>
-  <td>Replace with a one-line description of your automation framework</td>
-  <td><code>Playwright</code> <code>TypeScript</code></td>
-</tr>
-<tr>
-  <td><a href="https://github.com/didarmdd/REPO-NAME"><b>API Test Suite</b></a></td>
-  <td>Replace with a one-line description of your API testing project</td>
-  <td><code>Postman</code> <code>Bruno</code></td>
-</tr>
-<tr>
-  <td><a href="https://github.com/didarmdd/REPO-NAME"><b>BDD Cucumber Project</b></a></td>
-  <td>Replace with a one-line description of your BDD project</td>
-  <td><code>Cucumber</code> <code>TypeScript</code></td>
-</tr>
-</table>
-
----
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> Experience Highlights
 
