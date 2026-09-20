@@ -65,9 +65,7 @@ I like writing automation that actually survives a release cycle, digging throug
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=playwright,selenium,ts,js,nodejs,bash,html,css,postgres&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=postman,git,github,gitlab,githubactions,aws,firebase,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=selenium,ts,js,nodejs,bash,html,css,postgres,npm,postman,git,github,gitlab,githubactions,aws,firebase,figma,vscode&theme=dark&perline=9" />
 
 </div>
 
